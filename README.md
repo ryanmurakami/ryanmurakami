@@ -1,9 +1,9 @@
-It's me, Tierney!
+It's me, Ryan!
+
+(Thanks Tierney!)
 
 # Usage
-Via npx:
+Get them deetz:
 ```
-npx bitandbang
+npx ryanmurakami
 ```
-
-Not including how to use it globally because I'm not sure why you'd want this as a global command. That'd be creepy.
